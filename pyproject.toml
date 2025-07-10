@@ -1,7 +1,7 @@
 [project]
 name = "bb_wdd_label_gui"
 version = "0.1.0"
-description = "Add your description here"
+description = "A browser-based interface for labeling WDD video snippets with tag status and dance type."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
