@@ -28,7 +28,7 @@ wheels = [
 ]
 
 [[package]]
-name = "bee-tag-corrector"
+name = "bb-wdd-label-gui"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

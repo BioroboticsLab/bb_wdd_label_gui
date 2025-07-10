@@ -12,7 +12,7 @@ from main import DATA_FILE, TAGGED_DANCE_DIR, UNTAGGED_DANCE_DIR, TagStatus
 
 
 def main() -> None:
-    """Processes WDD data into the expected format for the Bee Tag Corrector Interface."""
+    """Processes WDD data into the expected format for the interface."""
     parser = init_argparse()
     args = parser.parse_args()
     if not args.input_dir.exists():
